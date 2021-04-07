@@ -9,6 +9,11 @@ public class Adder {
 	this.num1 = num1;
 	this.num2 = num2;
 	}
+	
+	int add()
+	{
+	return num1 + num2;
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
